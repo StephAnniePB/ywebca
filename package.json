@@ -1,0 +1,16 @@
+{
+  "name": "ywca-workspace",
+  "version": "0.0.1",
+  "description": "YWCA Workspace for Stephanie Pamperin",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:StephAnniePB/ywebca.git"
+  },
+  "author": {
+    "name": "Stephanie Pamperin",
+    "email": "steph.pamperin@gmail.com",
+    "url": "https://github.com/StephAnniePB"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
